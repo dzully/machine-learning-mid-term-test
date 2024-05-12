@@ -1,0 +1,3 @@
+Gender,Customer Type,Age,Type of Travel,Class,Flight distance,Inflight Wi-Fi service,Departure/Arrival time convenient,Ease of Online booking,Gate location,Food and drink,Online boarding,Seat comfort,Inflight entertainment,On-board service,Leg room service,Baggage handling,Check-in service,Inflight service,Cleanliness,Departure Delay in Minutes,Arrival Delay in Minutes,Satisfaction
+Female,Loyal customer,25,Personal Travel,Eco,500,3,4,5,3,4,5,4,5,4,3,4,5,4,5,10,15,Satisfaction
+Male,Disloyal customer,30,Business Travel,Business,1000,5,5,5,5,5,5,5,5,5,5,5,5,5,5,0,0,Neutral
