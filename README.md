@@ -58,7 +58,7 @@ The target variable is:
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/username/airline-customer-satisfaction.git`
+1. Clone the repository: `git clone git@github.com:dzully/machine-learning-mid-term-test.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook or Python script to train the models and make predictions.
 
